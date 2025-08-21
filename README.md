@@ -60,7 +60,7 @@ Customer Data: ~30% gender unknown → potential for better data collection
 
 Screenshots / Demos
 Example: (https://github.com/ABHISHEK2025-DA/Supply-Chain-Management-Dashboard/blob/main/Overview.jpg)
-
+(https://github.com/ABHISHEK2025-DA/Supply-Chain-Management-Dashboard/blob/main/Product%20Insights.jpg)
 
 
 

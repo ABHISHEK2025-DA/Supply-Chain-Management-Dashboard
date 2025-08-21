@@ -1,4 +1,3 @@
-# Supply-Chain-Management-Dashboard
 📊 Supply Chain Dashboard – Power BI
 
 🚀 Overview
@@ -25,10 +24,10 @@ Provided a centralized dashboard as a single source of truth for executives.
 Enabled data-driven strategy, increasing supply chain efficiency and profitability.
 
 📂 Project Structure
-├── Supply Chain Report.pbix   # Power BI dashboard file
-├── supply_chain_data.csv      # Dataset used for dashboard
-├── screenshots/               # Dashboard screenshots
-└── README.md                  # Project documentation
+├── Supply Chain Report.pbix   
+├── supply_chain_data.csv      
+├── screenshots/              
+└── README.md                 
 
 📸 Dashboard Preview
 1. Overview Page

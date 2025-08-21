@@ -59,7 +59,7 @@ Supplier 1: Largest stock but higher costs → dependency risk
 Customer Data: ~30% gender unknown → potential for better data collection
 
 Screenshots / Demos
-Example: 
+Example: (https://github.com/ABHISHEK2025-DA/Supply-Chain-Management-Dashboard/blob/main/Overview.jpg)
 
 
 

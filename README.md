@@ -36,9 +36,6 @@ The dashboard enables **data-driven decision-making** by visualizing KPIs across
 🖼️ screenshots/
 📝 README.md
 
-
-
-
 ---
 
 ## 📸 Dashboard Preview  

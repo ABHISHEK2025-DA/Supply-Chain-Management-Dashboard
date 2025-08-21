@@ -31,11 +31,6 @@ The dashboard enables **data-driven decision-making** by visualizing KPIs across
 ---
 
 ## 📂 Project Structure  
-├── Supply Chain Report.pbix
-├── supply_chain_data.csv
-├── screenshots/
-└── README.md
-
 
 ---
 
